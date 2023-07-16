@@ -1,3 +1,4 @@
+// link del video https://youtu.be/nuan5lSSy5g 
 PImage[] fotos = new PImage[14];
 String estado;
 
